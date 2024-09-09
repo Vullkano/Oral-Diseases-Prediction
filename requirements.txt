@@ -15,4 +15,5 @@ jsonschema
 jupyterlab
 notebook
 IPython
-
+torchvision
+random2
